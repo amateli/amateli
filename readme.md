@@ -99,7 +99,7 @@ I have being learning to code for more than a year now. I am currently focused o
 
 <img src="https://github-readme-stats.vercel.app/api/?username=amateli&count_private=true&theme=transparent&showicons=true">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amateli&langs_count=5&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amateli&langs_count=5&theme=transparent">
 
 ### Socials  
 
