@@ -95,6 +95,8 @@ I have being learning to code for more than a year now. I am currently focused o
 
 ### Badges
 
+![Amateli's GitHub stats](https://github-readme-stats.vercel.app/api?username=amateli&show_icons=true&theme=transparent)
+
 <img src="https://github-readme-stats.vercel.app/api/?username=amateli&count_private=true&theme=transparent&showicons=true">
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amateli&langs_count=5&theme=tokyonight">
