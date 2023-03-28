@@ -6,7 +6,7 @@
 I have being learning to code for more than a year now. I am currently focused on Front-end development, but I am on a journey to being a Full-stack Developer in the nearest future.
 
 - 🌎 I'm based in Lagos, Nigeria
-- 🔭 I’m currently participating in I4GxZURI Cohort2 Training and HNG9.
+- 🔭 I’m currently participating in I4GxZURI Cohort2 Training.
 
 # 🔧 Front End Technologies
 
@@ -95,7 +95,7 @@ I have being learning to code for more than a year now. I am currently focused o
 
 ### Badges
 
-<img src="https://github-readme-stats.vercel.app/api/?username=amateli&count_private=true&theme=tokyonight&showicons=true">
+<img src="https://github-readme-stats.vercel.app/api/?username=amateli&count_private=true&theme=transparent&showicons=true">
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amateli&langs_count=5&theme=tokyonight">
 
